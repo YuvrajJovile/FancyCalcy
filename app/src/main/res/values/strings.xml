@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FancyCalcy</string>
+
+
+    <string name="string_clear_all">C</string>
+    <string name="string_modulus">\u0025</string>
+    <string name="string_divide">\u00F7</string>
+    <string name="string_multiply">\u00D7</string>
+    <string name="string_addition">\u002B</string>
+    <string name="string_subraction">\u2212</string>
+    <string name="string_dot">.</string>
+    <string name="string_backspace">DEL</string>
+    <string name="string_equalsto">\u003D</string>
+
+    <string name="string_zero">0</string>
+    <string name="string_one">1</string>
+    <string name="string_two">2</string>
+    <string name="string_three">3</string>
+    <string name="string_four">4</string>
+    <string name="string_five">5</string>
+    <string name="string_six">6</string>
+    <string name="string_seven">7</string>
+    <string name="string_eight">8</string>
+    <string name="string_nine">9</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
